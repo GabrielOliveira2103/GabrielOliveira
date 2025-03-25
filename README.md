@@ -1,4 +1,4 @@
-- 👋 Oi. Eu sou o  Gabriel de Oliveira, sou um programador Front End, atualmente estou aprendendo e crindo projetos com
+- 👋Olá, meu nome é Gabriel de Oliveira e sou programador Front-End. Atualmente, estou focado no aprendizado e desenvolvimento de projetos utilizando JavaScript, HTML, CSS e React. Meu objetivo é aprimorar minhas habilidades e criar interfaces modernas e funcionais.
 -  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
