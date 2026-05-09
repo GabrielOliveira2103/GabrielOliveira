@@ -1,8 +1,9 @@
 <h1 align="center">🚀 Gabriel de Oliveira</h1>
 
 <p align="center">
-💻 Desenvolvedor Front-End Júnior <br>
-🎯 Focado em React, JavaScript e Experiência do Usuário
+💻 Full Stack Developer | HTML, CSS, JavaScript, React & Node.js | Desenvolvimento
+            de Aplicações Web Responsivas e APIs Escaláveis <br>
+
 </p>
 
 <p align="center">
@@ -15,11 +16,21 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Front-End Júnior apaixonado por tecnologia e interfaces modernas.  
-Atualmente focado em construir projetos práticos com **HTML, CSS, JavaScript e React**.
-
-Busco minha primeira oportunidade na área para evoluir tecnicamente e contribuir com equipes de desenvolvimento.
-
+                          Sou um Desenvolvedor Full Stack Júnior apaixonado por criar aplicações web
+                completas, modernas e escaláveis, que entregam experiências de usuário excepcionais e soluções robustas
+                no back-end. Com domínio em React.js, JavaScript, HTML5, CSS3 e Node.js, desenvolvo tanto interfaces
+                responsivas quanto APIs REST eficientes, seguindo as melhores práticas de componentização, código limpo
+                e arquitetura de software.
+                Em transição de carreira, trago mais de 4 anos de experiência em liderança e trabalho sob pressão
+                atuando como técnico de som na área de eventos. Essas habilidades fortaleceram minha comunicação,
+                organização e capacidade de colaboração em equipes multidisciplinares, essenciais para o desenvolvimento
+                ágil de software.
+                Já realizei projetos próprios que consolidaram meu pensamento lógico, atenção aos detalhes e
+                entendimento do ciclo completo de desenvolvimento, preparando-me para desafios reais como Full Stack
+                Developer. Estou em busca da minha primeira oportunidade profissional para aplicar meu aprendizado,
+                evoluir tecnicamente e contribuir com soluções de qualidade.
+                Vamos conectar? Estou aberto a novas oportunidades e colaborações na área de desenvolvimento Full Stack.
+                📞 (11) 95950-2621 | ✉️ bieloliveira_51@hotmail.com
 ---
 
 ## 🛠️ Tecnologias
