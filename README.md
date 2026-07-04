@@ -1,22 +1,17 @@
 <h1 align="center">🚀 Gabriel de Oliveira</h1>
 
 
-**Full Stack Developer | HTML, CSS, JavaScript, React & Node.js | Desenvolvimento de Aplicações Web Responsivas e APIs Escaláveis**
+**Automação de Processos com IA (n8n, APIs, OpenAI) | Fullstack JavaScript/React/Node.js | Construo agentes de IA e fluxos que economizam horas de trabalho manual**
 
-Sou um Desenvolvedor Full Stack Júnior apaixonado por criar aplicações web
-            completas, modernas e escaláveis, que entregam experiências de usuário excepcionais e soluções robustas
-            no back-end. Com domínio em React.js, JavaScript, HTML5, CSS3 e Node.js, desenvolvo tanto interfaces
-            responsivas quanto APIs REST eficientes, seguindo as melhores práticas de componentização, código limpo
-            e arquitetura de software.
-            Em transição de carreira, trago mais de 4 anos de experiência em liderança e trabalho sob pressão
-            atuando como técnico de som na área de eventos. Essas habilidades fortaleceram minha comunicação,
-            organização e capacidade de colaboração em equipes multidisciplinares, essenciais para o desenvolvimento
-            ágil de software.
-            Já realizei projetos próprios que consolidaram meu pensamento lógico, atenção aos detalhes e
-            entendimento do ciclo completo de desenvolvimento, preparando-me para desafios reais como Full Stack
-            Developer. Estou em busca da minha primeira oportunidade profissional para aplicar meu aprendizado,
-            evoluir tecnicamente e contribuir com soluções de qualidade.
-            Vamos conectar? Estou aberto a novas oportunidades e colaborações na área de desenvolvimento Full Stack.
+Construo agentes de IA e automações que trabalham 24 horas por dia inclusive fora do horário comercial qualificando clientes automaticamente e encaminhando para a equipe apenas os leads já prontos para atendimento. Um dos meus fluxos processa mais de 30 leads por dia sem intervenção manual na captação, liberando tempo da equipe para focar em fechar negócio em vez de filtrar contato por contato.
+ 
+Trabalho com n8n, APIs REST, integrações (WhatsApp/Z-API, Google Sheets, Google Calendar) e IA generativa (OpenAI) para criar fluxos que interpretam texto, áudio e imagem, identificam a intenção do cliente e organizam os dados automaticamente. Já apliquei isso em atendimento via WhatsApp, controle de vendas e estoque para operações de Mercado Livre, e agendamento automatizado.
+ 
+Como segunda frente, também desenvolvo aplicações web completas (JavaScript, React, Node.js), criando interfaces responsivas e integrando front-end, back-end e banco de dados.
+ 
+Vim da área de eventos, onde resolvia problemas técnicos sob pressão em tempo real hoje aplico essa mesma agilidade para estruturar fluxos e resolver erros rapidamente.
+ 
+Estou aberto a oportunidades CLT ou PJ como Desenvolvedor de Automação de Processos e, secundariamente, Desenvolvedor Full Stack Júnior. Se você tem uma vaga ou quer trocar uma ideia sobre automação e IA, meu direct está aberto.
             <br>
 📞 (11) 95950-2621 | ✉️ bieloliveira_51@hotmail.com
 
